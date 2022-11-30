@@ -6,11 +6,10 @@
 
 /* 
  * File:   main.c
- * Author: KURUMI
+ * Author: Renan Duarte
  *
  * Created on 30 de Novembro de 2022, 13:05
  */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "lista.h"
